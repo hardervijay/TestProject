@@ -8,6 +8,7 @@ public class TestHelloWorld {
 	public void  testHelloWorld(){
 		
 		System.out.println("...Hello_World!");
+		System.out.println("...Hello_World2!");
 		
 	}
 
